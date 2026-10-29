@@ -23,8 +23,8 @@ An end-to-end classification pipeline predicting Titanic passenger survival. The
 
 ## Installation
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+git clone https://github.com/EsterShmuel/titanic-survival-classification.git
+cd titanic-survival-classification
 pip install -r requirements.txt
 ```
 
