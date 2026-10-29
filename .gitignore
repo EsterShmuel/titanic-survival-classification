@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# Full Kaggle files - downloaded automatically by train.py / eda.ipynb
+data/train.csv
+data/test.csv
+data/gender_submission.csv
+
+# Assignment instructions - not part of the solution
+elta_ai_home_assignment_ds.md
